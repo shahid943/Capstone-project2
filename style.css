@@ -15,7 +15,7 @@
       background-position: 0% 50%;
     }
   }
-
+  
 * {
     margin: 0;
     padding: 0;
@@ -26,6 +26,7 @@
   font-weight: bold;
 }
 a {
+  margin: 0;
   color: dodgerblue;
   font-weight: bold;
   text-decoration: none;
@@ -114,7 +115,7 @@ li {
     
 }
 .contact-me {
-    padding: 3%;
+    padding: 1%;
     border-style: solid solid double solid;
     border-color: darkgreen;
     text-align: left;
